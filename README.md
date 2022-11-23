@@ -6,7 +6,9 @@
 **Computer science fresh graduate passionate about Backend, and Software development. More than one year of Python coding experience with object-oriented programming and data structures.**
 
 
-<h3 align="left">Connect Me With</h3>
+# <img src="https://media0.giphy.com/media/5sYzemZcADnesWwRBQ/giphy.gif?cid=ecf05e47lw52t8i6cxgr0i3nkzftle46kvm7v8uq0imuihlf&rid=giphy.gif&ct=g" width="50" draggable="false" > Connect Me With
+
+<!------>
 
 <p align="left">
   <a href="https://www.quora.com/profile/Rowida-Nagah" target="blank">
