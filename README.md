@@ -35,7 +35,7 @@
 
 - 🌱 I’m currently learning **Backend Development & Software Development**
 
-- 🖍️📚 I'm Trying to recap concepts and topics I read on: my dev account and Today I learn on [_My dev.io Account](https://dev.to/rowida46) and [TIL Repo](https://github.com/Rowida46/TIL/tree/rowida).
+- 🖍️📚 I'm Trying to recap concepts and topics I read on: my dev account and Today I learn on [_My dev.io Account](https://dev.to/rowida46) and [TIL Repo](https://github.com/abdallah-abdelsabour/TIL/tree/rowida).
 
 - 📫 How to reach me out: [My facebook account](https://www.facebook.com/rowida.nagah.545/)
 
@@ -75,18 +75,18 @@
 
 ## 📖 Repos About Books I've recently read or am currently reading.
 
-- [Python For profesional](https://github.com/Rowida46/Python-for-profesional)
+- [Python For profesional](https://github.com/abdallah-abdelsabour/Python-for-profesional)
 
-- [Head First Object Oriented Design and Analysis](https://github.com/Rowida46/Head_First_Object_Oriented_Design_and_Analysis)
+- [Head First Object Oriented Design and Analysis](https://github.com/abdallah-abdelsabour/Head_First_Object_Oriented_Design_and_Analysis)
 
-- [Oreilly Head First HTML and CSS](https://github.com/Rowida46/Oreilly_Head_First_HTML_and_CSS)
+- [Oreilly Head First HTML and CSS](https://github.com/abdallah-abdelsabour/Oreilly_Head_First_HTML_and_CSS)
 
 
-- [Head First Python](https://github.com/Rowida46/Head-First-Python)
+- [Head First Python](https://github.com/abdallah-abdelsabour/Head-First-Python)
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rowida46&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdallah-abdelsabour&show_icons=true&theme=radical" />
 </p>
 
 <br />
