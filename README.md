@@ -75,7 +75,7 @@
 
 ## 📖 Repos About Books I've recently read or am currently reading.
 
-- [Python For profesional](https://github.com/Rowida46/Python-for-profesional)
+- [Python For profesional](https://github.com/rowidanagah/Python-for-profesional)
 
 - [Head First Object Oriented Design and Analysis](https://github.com/rowidanagah/Head_First_Object_Oriented_Design_and_Analysis)
 
